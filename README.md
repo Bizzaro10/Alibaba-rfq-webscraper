@@ -21,10 +21,11 @@ A Python web scraper for extracting Request for Quotations (RFQ) data from Aliba
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/alibaba-rfq-scraper.git
-cd alibaba-rfq-scraper
+git clone https://github.com/Bizzaro10/Alibaba-rfq-webscraper
+cd Alibaba-rfq-scraper
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+venv\Scripts\activate #On Windows
+source venv/bin/activate #On MacOs/Linux
 pip install -r requirements.txt
 ```
 
